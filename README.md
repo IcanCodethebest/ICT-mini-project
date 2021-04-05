@@ -1,6 +1,6 @@
 # ICT-mini-project
 
-Clef is smart
+git clone https://github.com/geopandas/geopandas.git
+cd geopandas
+pip install
 
-Jon is actually smart too
-I am learning today!
